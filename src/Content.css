@@ -1,0 +1,15 @@
+.feature {
+    height: 60vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+    font-weight: 200 !important;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   }
+
+
+p a{
+    color: black;
+}
+
